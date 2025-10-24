@@ -16,4 +16,3 @@ I’m a software engineer passionate about **programming languages**, **high-per
 ### 📫 Connect
 - GitHub: [@jeffmanzione](https://github.com/jeffmanzione)
 - LinkedIn: [Jeff Manzione](https://www.linkedin.com/in/jeff-manzione-3ba57960/)
-```
